@@ -4,3 +4,5 @@ def sq(a):
     return squar
 
 sq(10)
+
+print("Added a new print statement")
